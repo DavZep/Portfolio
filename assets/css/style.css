@@ -10,8 +10,7 @@ body {
     box-sizing: border-box;
   }
   
-  /* general */
-  
+    
   .container {
     width: 100%;
     max-width: 960px;
@@ -50,8 +49,7 @@ body {
     font-size: 22px;
   }
   
-  /* header */
-  
+    
   #masterhead {
     position: fixed;
     z-index: 99;
@@ -96,8 +94,7 @@ body {
     border-left: 0 none;
   }
   
-  /* footer */
-  
+   
   footer {
     padding: 30px 0;
     clear: both;
@@ -109,7 +106,6 @@ body {
     border-top: 8px solid #4aaaa5;
   }
   
-  /* sidebar */
   
   .sidebar {
     float: right;
@@ -140,8 +136,7 @@ body {
     margin-right: 0;
   }
   
-  /* main */
-  
+    
   #main-container {
     padding-top: 130px;
   }
@@ -156,9 +151,7 @@ body {
     border: 1px solid #ddd;
   }
   
-  /* portfolio page */
-  
-  .work {
+    .work {
     position: relative;
     float: left;
     width: 274px;
@@ -197,9 +190,7 @@ body {
     margin-top: 10px;
     margin-right: 25px;
   }
-  
-  /* contact page */
-  
+    
   #contact-form ul {
     margin-bottom: 20px;
   }
@@ -240,7 +231,7 @@ body {
 
   #logo:hover,
   input[type=submit]:hover {
-  background: #607a7a;
+  background-color: teal;
   text-decoration: none;
   }
 
@@ -254,4 +245,3 @@ body {
   .push {
   height: 100px;
 }
-  
